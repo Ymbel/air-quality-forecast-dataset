@@ -1,1 +1,2 @@
-# air-quality-forecast-dataset
+This dataset originates from the Applied Mathematics Laboratory at Agrocampus Ouest. 
+Ozone is a photochemical pollutant, and many institutions are working to predict its spikes to safeguard populations. Factors such as vehicular pollution, lack of wind, and heat contribute to heightened pollution levels. The measurements included in this dataset address these concerns. Stringent constraints were applied when selecting instances from a larger database.
